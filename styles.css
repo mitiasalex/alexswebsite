@@ -294,6 +294,7 @@
 }
 
 /* Mobile responsive */
+
 @media screen and (max-width: 768px) {
     .main__container {
         display: grid;
@@ -385,7 +386,7 @@
         rgba(0,0,0,0) 0%, 
         rgba(17,17,17, 0.6) 100%
       ),
-      url('/images/pc.jpg');
+      url('/images/vr.jpg');
     background-size: cover;
     position: relative;
     color: #fff;
@@ -397,7 +398,7 @@
         rgba(0,0,0,0) 0%, 
         rgba(17,17,17, 0.6) 100%
       ),
-      url('/images/pic1.svg');
+      url('/images/pc.jpg');
 }
 
 .services h2 {
